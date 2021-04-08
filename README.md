@@ -12,7 +12,7 @@ The project is created using the following languages
 
 ### Target
 Following is the target Image required to create\
-POS Target![alt text](https://raw.githubusercontent.com/Usama-Taj/POS-UI/main/src/asset/images/POS_Target.jpeg?raw=true)
+POS Target![alt text](https://raw.githubusercontent.com/Usama-Taj/POS-UI-REACT/main/src/asset/images/POS_Target.jpeg?raw=true)
 
 ### For More Projects
 ##### Visit My:
