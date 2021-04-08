@@ -1,0 +1,17 @@
+.btn-box
+{
+  position: relative;
+  padding: 50px;
+  padding-right: 60px;
+  padding-left: 60px;
+}
+.btn-inside{
+  position:absolute;
+  padding-top: 2em;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 100;
+  overflow: hidden;
+}
